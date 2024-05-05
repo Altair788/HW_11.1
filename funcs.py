@@ -1,4 +1,4 @@
-def foo(a: int, b: int) -> int:
+def total(a: int, b: int) -> int:
     """
     Args:
         a: int
